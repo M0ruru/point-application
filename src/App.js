@@ -9,8 +9,8 @@ import RegularPointsABI from './abis/RegularPoints.json'
 import UniversalPointsABI from './abis/UniversalPoints.json'
 
 //  合约地址
-const UNIVERSAL_POINTS_ADDRESS = "0x85C64C1497FDea323784F647Dc88a9a4f3265Ba2";
-const POINTS_EXCHANGE_ADDRESS  = "0x6E8C0D0561d406ecF779B7852d8F60d371d91e7E";
+const UNIVERSAL_POINTS_ADDRESS = "0xC167d6857247cdA63D418d240A0FA8D48b1932a3";
+const POINTS_EXCHANGE_ADDRESS  = "0x7A135F5D01056025a11CF7F0b6D9d9FC5831a8c5";
 
 // 合约所有者私钥（保存在 .env 文件中）
 const contractOwnerPrivateKey = process.env.REACT_APP_PRIVATE_KEY;
